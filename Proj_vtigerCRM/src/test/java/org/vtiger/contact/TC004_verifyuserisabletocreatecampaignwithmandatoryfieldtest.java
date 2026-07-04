@@ -1,9 +1,9 @@
-package org.vitger.campaign;
+package org.vtiger.contact;
 
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
-public class TC002_verifyuserisabletocreatecampaignwithmandatoryfieldtest {
+public class TC004_verifyuserisabletocreatecampaignwithmandatoryfieldtest {
 
 	
 	@Test
@@ -19,11 +19,8 @@ public class TC002_verifyuserisabletocreatecampaignwithmandatoryfieldtest {
 		//navigate to url
 //		driver.get("https://www.zomato.com/");
 		
-		Reporter.log("HELLO WORLD",true);
-		Reporter.log("Good Day",true);
-		
 		Reporter.log("HELLO WORLD",true);		
-		Reporter.log("Last Line",true);		
+		
 	}
 	
 	
