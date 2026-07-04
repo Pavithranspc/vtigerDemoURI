@@ -20,7 +20,7 @@ public class TC002_verifyuserisabletocreatecampaignwithmandatoryfieldtest {
 //		driver.get("https://www.zomato.com/");
 		
 		Reporter.log("HELLO WORLD",true);		
-		
+		Reporter.log("Last Line",true);		
 	}
 	
 	
