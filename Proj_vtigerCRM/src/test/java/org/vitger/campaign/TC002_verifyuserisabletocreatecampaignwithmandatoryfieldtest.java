@@ -22,6 +22,8 @@ public class TC002_verifyuserisabletocreatecampaignwithmandatoryfieldtest {
 		Reporter.log("HELLO WORLD",true);
 		Reporter.log("Good Day",true);
 		
+		Reporter.log("HELLO WORLD",true);		
+		Reporter.log("Last Line",true);		
 	}
 	
 	
