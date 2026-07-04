@@ -19,7 +19,8 @@ public class TC002_verifyuserisabletocreatecampaignwithmandatoryfieldtest {
 		//navigate to url
 //		driver.get("https://www.zomato.com/");
 		
-		Reporter.log("HELLO WORLD",true);		
+		Reporter.log("HELLO WORLD",true);
+		Reporter.log("Good Day",true);
 		
 	}
 	
